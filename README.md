@@ -27,4 +27,4 @@
 最新资源、实时更新
 为了确保你能第一时间观看到最热门的影片，我们会定期更新影片库，每日更新新影片，不让你错过任何一部精彩作品。此外，我们还会推荐当前最热的影片，通过首页推荐区域，让你更方便地发现当前的热门资源。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/dcx1224/3243 ）</span>
